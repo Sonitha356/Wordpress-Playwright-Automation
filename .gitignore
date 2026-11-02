@@ -1,20 +1,11 @@
-# Python
-__pycache__/
-*.pyc
-.venv/
 venv/
-
-# Pytest
+__pycache__/
 .pytest_cache/
-
-# Playwright reports
-reports/
-report.html
-playwright-report/
-test-results/
-
-# Screenshots
 screenshots/
-
-# Videos
-*.webm
+reports/
+test-results*/
+discovery/
+*.xlsx
+~$*
+yg_screenshots/
+report.html

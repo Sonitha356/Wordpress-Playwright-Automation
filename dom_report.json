@@ -1,0 +1,438 @@
+[
+  {
+    "url": "https://3.15.3.216/",
+    "title": "Your Own Gear :: Jryanonline.com",
+    "generator": null,
+    "bodyClass": "home wp-singular page-template-default page page-id-18 wp-theme-enfold wp-child-theme-enfold-child boxed open_sans  theme-enfold woocommerce-js mega-menu-avia",
+    "headings": [
+      {
+        "tag": "H3",
+        "text": "APPAREL BY JRYAN & ASSOCIATES",
+        "cls": "widgettitle",
+        "visible": true
+      },
+      {
+        "tag": "H3",
+        "text": "YOUR ITEMS",
+        "cls": "widgettitle",
+        "visible": true
+      },
+      {
+        "tag": "H3",
+        "text": "SEARCH APPAREL",
+        "cls": "widgettitle",
+        "visible": true
+      }
+    ],
+    "landmarks": [
+      {
+        "tag": "header",
+        "id": "header",
+        "cls": "all_colors header_color dark_bg_color  av_header_top av_logo_center av_bottom_nav_header av_menu_right av_custom av_header_sticky_disabled av_header_shrinking_d",
+        "role": "banner",
+        "aria": null
+      },
+      {
+        "tag": "nav",
+        "id": "",
+        "cls": "main_menu",
+        "role": "navigation",
+        "aria": null
+      },
+      {
+        "tag": "nav",
+        "id": "",
+        "cls": "main_menu",
+        "role": "navigation",
+        "aria": null
+      },
+      {
+        "tag": "main",
+        "id": "",
+        "cls": "template-page content  av-content-full alpha units",
+        "role": "main",
+        "aria": null
+      },
+      {
+        "tag": "form",
+        "id": "",
+        "cls": "woocommerce-product-search",
+        "role": "search",
+        "aria": null
+      },
+      {
+        "tag": "footer",
+        "id": "socket",
+        "cls": "container_wrap socket_color",
+        "role": "contentinfo",
+        "aria": null
+      }
+    ],
+    "links": [
+      {
+        "text": "0",
+        "href": "https://3.15.3.216/cart/",
+        "cls": "cart_dropdown_link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": false,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://3.15.3.216/",
+        "cls": "",
+        "aria": null,
+        "inHeader": true,
+        "inNav": false,
+        "inFooter": false,
+        "hasImg": true,
+        "visible": true
+      },
+      {
+        "text": "Home",
+        "href": "https://3.15.3.216/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": false
+      },
+      {
+        "text": "Shop",
+        "href": "https://3.15.3.216/shop/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": false
+      },
+      {
+        "text": "Cart",
+        "href": "https://3.15.3.216/cart/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": false
+      },
+      {
+        "text": "Checkout",
+        "href": "https://3.15.3.216/checkout/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": false
+      },
+      {
+        "text": "My Account",
+        "href": "https://3.15.3.216/my-account/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": false
+      },
+      {
+        "text": "Menu",
+        "href": "https://3.15.3.216/#",
+        "cls": "",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": false
+      },
+      {
+        "text": "HOME",
+        "href": "https://3.15.3.216/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": true
+      },
+      {
+        "text": "SHOP",
+        "href": "https://3.15.3.216/shop/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": true
+      },
+      {
+        "text": "CART",
+        "href": "https://3.15.3.216/cart/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": true
+      },
+      {
+        "text": "CHECKOUT",
+        "href": "https://3.15.3.216/checkout/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": true
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "https://3.15.3.216/my-account/",
+        "cls": "mega-menu-link",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": true
+      },
+      {
+        "text": "Menu",
+        "href": "https://3.15.3.216/#",
+        "cls": "",
+        "aria": null,
+        "inHeader": true,
+        "inNav": true,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": false
+      },
+      {
+        "text": "",
+        "href": "http://www.jryanonline.com/",
+        "cls": "widget_sp_image-image-link alignleft",
+        "aria": null,
+        "inHeader": false,
+        "inNav": false,
+        "inFooter": false,
+        "hasImg": true,
+        "visible": true
+      },
+      {
+        "text": "jryanonline.com/",
+        "href": "http://jryanonline.com/",
+        "cls": "",
+        "aria": null,
+        "inHeader": false,
+        "inNav": false,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": true
+      },
+      {
+        "text": "\u00a9 2017 | JRYANONLINE.COM | ALL RIGHTS RESERVED",
+        "href": "http://www.jryanonline.com/",
+        "cls": "",
+        "aria": null,
+        "inHeader": false,
+        "inNav": false,
+        "inFooter": true,
+        "hasImg": false,
+        "visible": true
+      },
+      {
+        "text": "Scroll to top",
+        "href": "https://3.15.3.216/#top",
+        "cls": "",
+        "aria": null,
+        "inHeader": false,
+        "inNav": false,
+        "inFooter": false,
+        "hasImg": false,
+        "visible": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://3.15.3.216/wp-content/themes/enfold/images/layout/logo.png",
+        "alt": "Your Own Gear :: Jryanonline.com",
+        "cls": "",
+        "w": 340,
+        "h": 156,
+        "complete": true,
+        "loading": null,
+        "inLink": "https://3.15.3.216/",
+        "inHeader": true
+      },
+      {
+        "src": "https://3.15.3.216/wp-content/uploads/2016/09/jryan-logo-1.png",
+        "alt": "Apparel by JRyan & Associates",
+        "cls": "attachment-full alignleft",
+        "w": 305,
+        "h": 90,
+        "complete": true,
+        "loading": null,
+        "inLink": "http://www.jryanonline.com/",
+        "inHeader": false
+      }
+    ],
+    "forms": [
+      {
+        "id": "",
+        "cls": "woocommerce-product-search",
+        "action": "https://3.15.3.216/",
+        "method": "get",
+        "role": "search",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "search",
+            "name": "s",
+            "id": "woocommerce-product-search-field-0",
+            "placeholder": "Search products\u2026"
+          },
+          {
+            "tag": "button",
+            "type": "submit",
+            "value": "Search"
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "post_type",
+            "value": "product"
+          }
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "cls": "search-field",
+        "type": "search",
+        "name": "s",
+        "id": "woocommerce-product-search-field-0",
+        "placeholder": "Search products\u2026",
+        "visible": true,
+        "label": "Search for:"
+      },
+      {
+        "tag": "input",
+        "cls": "",
+        "type": "hidden",
+        "name": "post_type",
+        "value": "product",
+        "visible": false,
+        "label": null
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "cls": "mega-toggle-animated mega-toggle-animated-slider",
+        "type": "button",
+        "aria-label": "Toggle Menu",
+        "visible": false
+      },
+      {
+        "text": "",
+        "cls": "mega-close",
+        "aria-label": "Close",
+        "visible": false
+      },
+      {
+        "text": "",
+        "cls": "mega-toggle-animated mega-toggle-animated-slider",
+        "type": "button",
+        "aria-label": "Toggle Menu",
+        "visible": false
+      },
+      {
+        "text": "",
+        "cls": "mega-close",
+        "aria-label": "Close",
+        "visible": true
+      },
+      {
+        "text": "Search",
+        "cls": "",
+        "type": "submit",
+        "visible": true
+      }
+    ],
+    "prices": [],
+    "classCounts": {
+      "html_logo_center": 1,
+      "html_bottom_nav_header": 1,
+      "html_menu_right": 1,
+      "html_mobile_menu_phone": 1,
+      "html_header_searchicon_disabled": 1,
+      "html_av-submenu-hidden": 1,
+      "html_av-submenu-display-click": 1,
+      "html_av-submenu-noclone": 1,
+      "html_text_menu_active": 1,
+      "woocommerce-js": 1,
+      "mega-menu-avia": 1,
+      "av_logo_center": 1,
+      "av_bottom_nav_header": 1,
+      "av_menu_right": 1,
+      "av_mobile_menu_phone": 1,
+      "av_header_searchicon_disabled": 1,
+      "container_wrap_logo": 1,
+      "menu-item": 1,
+      "cart_dropdown": 1,
+      "cart_dropdown_first": 1,
+      "cart_dropdown_link": 1,
+      "av-cart-counter": 1,
+      "dropdown_widget_cart": 1,
+      "widget_shopping_cart_content": 2,
+      "av-logo-container": 1,
+      "logo": 1,
+      "bg-logo": 1,
+      "main_menu": 2,
+      "mega-menu-wrap": 2,
+      "mega-menu-toggle": 2,
+      "mega-menu-toggle-animated-block": 2,
+      "mega-menu": 2,
+      "max-mega-menu": 2,
+      "mega-menu-horizontal": 2,
+      "mega-menu-item": 10,
+      "mega-menu-item-type-post_type": 10,
+      "mega-menu-item-object-page": 10,
+      "mega-menu-item-home": 2,
+      "mega-current-menu-item": 2,
+      "mega-menu-item-87": 2,
+      "mega-menu-link": 10,
+      "mega-menu-item-630": 2,
+      "mega-menu-item-629": 2,
+      "mega-menu-item-631": 2,
+      "mega-menu-item-88": 2,
+      "av-burger-menu-main": 2,
+      "menu-item-avia-special": 2,
+      "woocommerce": 2,
+      "widget_shopping_cart": 1,
+      "widget_product_search": 1,
+      "woocommerce-product-search": 1,
+      "search-field": 1,
+      "widget_shopping_cart_live_region": 1
+    },
+    "social": [],
+    "status": 200
+  }
+]
